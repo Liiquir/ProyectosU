@@ -1,0 +1,18 @@
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea\obj\Debug\LogicaTarea.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea\obj\Debug\LogicaTarea.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea\obj\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea\obj\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\LogicaTarea\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\LogicaTarea\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\LogicaTarea\obj\Debug\LogicaTarea.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\LogicaTarea\obj\Debug\LogicaTarea.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\LogicaTarea\obj\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\LogicaTarea\obj\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\LogicaTarea\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\LogicaTarea\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\LogicaTarea\obj\Debug\LogicaTarea.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\LogicaTarea\obj\Debug\LogicaTarea.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\LogicaTarea\obj\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\LogicaTarea\obj\Debug\LogicaTarea.pdb

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633150222 source:d:\mio\uned\2021\3er cuatrimestre\introducción a la programación\tarea 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
