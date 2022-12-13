@@ -1,0 +1,6 @@
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\ServidorProyecto\ProyectoServidor.Entidades\bin\Debug\ProyectoServidor.Entidades.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\ServidorProyecto\ProyectoServidor.Entidades\bin\Debug\ProyectoServidor.Entidades.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\ServidorProyecto\ProyectoServidor.Entidades\obj\Debug\ProyectoServidor.Entidades.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\ServidorProyecto\ProyectoServidor.Entidades\obj\Debug\ProyectoServidor.Entidades.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\ServidorProyecto\ProyectoServidor.Entidades\obj\Debug\ProyectoServidor.Entidades.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\ServidorProyecto\ProyectoServidor.Entidades\obj\Debug\ProyectoServidor.Entidades.pdb
