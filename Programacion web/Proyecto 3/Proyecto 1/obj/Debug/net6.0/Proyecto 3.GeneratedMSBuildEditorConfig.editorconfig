@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto_1
+build_property.RootNamespace = Proyecto_1
+build_property.ProjectDir = D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 3\Proyecto 1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 3\Proyecto 1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Plato/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Plato/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Plato/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Plato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Reserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Reserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Reserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Reserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Venta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Venta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Venta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mio/Uned/Bachillerato/2023/2do Cuatrimestre/Fundamentos WEB/Proyecto 3/Proyecto 1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-t9fb38pf6p

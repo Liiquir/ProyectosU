@@ -1,0 +1,85 @@
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\appsettings.Development.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\appsettings.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Proyecto 3 api.exe
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Proyecto 3 api.deps.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Proyecto 3 api.runtimeconfig.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Proyecto 3 api.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Proyecto 3 api.pdb
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Azure.Core.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Azure.Identity.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.csproj.AssemblyReference.cache
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.GeneratedMSBuildEditorConfig.editorconfig
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.AssemblyInfoInputs.cache
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.AssemblyInfo.cs
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.csproj.CoreCompileInputs.cache
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.MvcApplicationPartsAssemblyInfo.cs
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.MvcApplicationPartsAssemblyInfo.cache
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto 3 api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto 3 api.props
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto 3 api.props
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto 3 api.props
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets.build.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\staticwebassets.development.json
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\scopedcss\bundle\Proyecto 3 api.styles.css
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.csproj.CopyComplete
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\refint\Proyecto 3 api.dll
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.pdb
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\Proyecto 3 api.genruntimeconfig.cache
+D:\mio\Uned\Bachillerato\2023\2do Cuatrimestre\Fundamentos WEB\Proyecto 2 api\Proyecto 2 api\obj\Debug\net6.0\ref\Proyecto 3 api.dll

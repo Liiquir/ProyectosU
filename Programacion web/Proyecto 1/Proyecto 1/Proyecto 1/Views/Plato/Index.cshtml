@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Proyecto_1.Models.Plato>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pagina de administración de platos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear nuevo plato</a>
+</p>
+@using (Html.BeginForm("Index", "Plato", new { area = "" }, FormMethod.Get))
+{
+    <div class="form-group">
+        <label for="searchId">Buscar por ID:</label>
+        <input type="number" name="searchId" id="searchId" class="form-control" value="@ViewBag.CurrentFilter" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Imagen)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Precio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Categoria)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { style = "background-color: green; color: white; padding: 5px 10px; margin-right: 5px;" }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.Id }, new { style = "background-color: blue; color: white; padding: 5px 10px; margin-right: 5px;" }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.Id }, new { style = "background-color: red; color: white; padding: 5px 10px; margin-right: 5px;" })
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+

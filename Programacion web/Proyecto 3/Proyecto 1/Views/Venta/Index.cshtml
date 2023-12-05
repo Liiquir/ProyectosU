@@ -1,0 +1,73 @@
+﻿@using Humanizer;
+@model IEnumerable<Proyecto_1.Models.Venta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pagina de administración de ventas</h1>
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear nueva Venta</a>
+</p>
+@using (Html.BeginForm("Index", "Venta", new { area = "" }, FormMethod.Get))
+{
+    <div class="form-group">
+        <label for="searchNumeroOrden">Buscar por Numero de Orden:</label>
+        <input type="number" name="searchNumeroOrden" NumeroOrden="searchOrden" class="form-control" value="@ViewBag.CurrentFilter" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+}
+<br />
+<button onclick="window.print()" class="btn btn-primary">Generar reporte</button>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroOrden).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaHoraVenta).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombrePlato).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadVendida).Humanize()
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroOrden)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaHoraVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombrePlato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantidadVendida)
+            </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Venta", new { numeroOrden = item.NumeroOrden })" class="btn btn-primary">Edit</a>
+                    <form method="post" action="@Url.Action("Delete", "Venta", new { numeroOrden = item.NumeroOrden })">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

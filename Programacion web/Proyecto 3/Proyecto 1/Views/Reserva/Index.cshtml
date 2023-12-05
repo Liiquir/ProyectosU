@@ -1,0 +1,74 @@
+﻿@using Humanizer;
+@model IEnumerable<Proyecto_1.Models.Reserva>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pagina de administración de reservas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear nueva reserva</a>
+</p>
+@using (Html.BeginForm("Index", "Reserva", new { area = "" }, FormMethod.Get))
+{
+    <div class="form-group">
+        <label for="searchNumeroReserva">Buscar por Numero de Reserva:</label>
+        <input type="number" name="searchNumeroReserva" id="searchNumeroReserva" class="form-control" value="@ViewBag.CurrentFilter" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+}
+<br />
+<button onclick="window.print()" class="btn btn-primary">Generar reporte</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroReserva).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaHoraReserva).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCliente).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroPersonas).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaHoraCreacion).Humanize()
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroReserva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaHoraReserva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroPersonas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaHoraCreacion)
+            </td>
+            <td>
+
+                    <a href="@Url.Action("Edit", "Reserva", new { Id = item.NumeroReserva })" class="btn btn-primary">Edit</a>
+                    <form method="post" action="@Url.Action("Delete", "Reserva", new { Id = item.NumeroReserva })">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,77 @@
+﻿@model Proyecto_1.Models.Reserva
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Creación de reserva</h1>
+
+<h4>Reserva</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Número reserva")</label>
+                <input asp-for="NumeroReserva" class="form-control" />
+                <span asp-validation-for="NumeroReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Fecha y hora de reserva")</label>
+                <input asp-for="FechaHoraReserva" class="form-control" />
+                <span asp-validation-for="FechaHoraReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Nombre cliente")</label>
+                <input asp-for="NombreCliente" class="form-control" />
+                <span asp-validation-for="NombreCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Número de personas")</label>
+                <input asp-for="NumeroPersonas" class="form-control" />
+                <span asp-validation-for="NumeroPersonas" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="FechaHoraCreacion" class="control-label">Fecha y hora de creación</label>
+                <input type="text" id="FechaHoraCreacion" class="form-control" readonly="readonly" />
+                <input type="hidden" id="FechaHoraCreacionHidden" name="FechaHoraCreacion" />
+                <span asp-validation-for="FechaHoraCreacion" class="text-danger"></span>
+            </div>
+
+            
+
+
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    <script>
+        // Obtener la referencia al elemento de entrada
+        var fechaHoraCreacion = document.getElementById('FechaHoraCreacion');
+        var fechaHoraCreacionHidden = document.getElementById('FechaHoraCreacionHidden');
+
+        // Obtener la fecha y hora actual
+        var fechaHoraActual = new Date();
+
+        // Formatear la fecha y hora actual en el formato deseado
+        var fechaHoraFormateada = fechaHoraActual.toLocaleString();
+
+        // Establecer el valor formateado en el campo de entrada visible
+        fechaHoraCreacion.value = fechaHoraFormateada;
+
+        // Establecer el valor formateado en el campo oculto
+        fechaHoraCreacionHidden.value = fechaHoraActual// Utilizar el formato ISO para enviar la fecha y hora al servidor
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}

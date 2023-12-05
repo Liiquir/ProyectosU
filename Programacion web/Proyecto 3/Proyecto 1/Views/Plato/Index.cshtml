@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Proyecto_1.Models.Plato>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pagina de administración de platos</h1>
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear nuevo plato</a>
+</p>
+@using (Html.BeginForm("Index", "Plato", new { area = "" }, FormMethod.Get))
+{
+    <div class="form-group">
+        <label for="searchId">Buscar por ID:</label>
+        <input type="number" name="searchId" id="searchId" class="form-control" value="@ViewBag.CurrentFilter" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+}<br />
+<button onclick="window.print()" class="btn btn-primary">Generar reporte</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Imagen)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Precio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Categoria)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Plato", new { Id = item.Id })" class="btn btn-primary">Edit</a>
+                    <form method="post" action="@Url.Action("Delete", "Plato", new { Id = item.Id })">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+

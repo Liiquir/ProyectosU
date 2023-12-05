@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto 3", "Proyecto 1\Proyecto 3.csproj", "{72A31495-1199-4C93-ABA7-28DDA9ED82A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto 3 api", "..\Proyecto 2 api\Proyecto 2 api\Proyecto 3 api.csproj", "{1FEABB4A-E93C-4ED4-ADAC-FC0CBDF69106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A31495-1199-4C93-ABA7-28DDA9ED82A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A31495-1199-4C93-ABA7-28DDA9ED82A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A31495-1199-4C93-ABA7-28DDA9ED82A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A31495-1199-4C93-ABA7-28DDA9ED82A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEABB4A-E93C-4ED4-ADAC-FC0CBDF69106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEABB4A-E93C-4ED4-ADAC-FC0CBDF69106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEABB4A-E93C-4ED4-ADAC-FC0CBDF69106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEABB4A-E93C-4ED4-ADAC-FC0CBDF69106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7B5871-DEAB-41B1-AB37-381201F95F9D}
+	EndGlobalSection
+EndGlobal

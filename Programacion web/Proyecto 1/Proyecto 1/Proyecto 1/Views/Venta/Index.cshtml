@@ -1,0 +1,63 @@
+﻿@using Humanizer;
+@model IEnumerable<Proyecto_1.Models.Venta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pagina de administración de ventas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear nueva venta</a>
+</p>
+@using (Html.BeginForm("Index", "Venta", new { area = "" }, FormMethod.Get))
+{
+    <div class="form-group">
+        <label for="searchNumeroOrden">Buscar por Número de Orden:</label>
+        <input type="number" name="searchNumeroOrden" id="searchNumeroOrden" class="form-control" value="@ViewBag.CurrentFilter" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroOrden).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaHoraVenta).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombrePlato).Humanize()
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadVendida).Humanize()
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroOrden)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaHoraVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombrePlato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantidadVendida)
+            </td>
+            <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.NumeroOrden }, new { style = "background-color: green; color: white; padding: 5px 10px; margin-right: 5px;" }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.NumeroOrden }, new { style = "background-color: blue; color: white; padding: 5px 10px; margin-right: 5px;" }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.NumeroOrden }, new { style = "background-color: red; color: white; padding: 5px 10px; margin-right: 5px;" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

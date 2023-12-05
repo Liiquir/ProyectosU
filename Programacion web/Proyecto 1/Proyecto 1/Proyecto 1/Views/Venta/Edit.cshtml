@@ -1,0 +1,48 @@
+﻿@model Proyecto_1.Models.Venta
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar venta</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Número orden")</label>
+                <input asp-for="NumeroOrden" class="form-control" readonly="readonly" />
+                <span asp-validation-for="NumeroOrden" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Fecha y hora venta")</label>
+                <input asp-for="FechaHoraVenta" class="form-control" />
+                <span asp-validation-for="FechaHoraVenta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Nombre plato")</label>
+                <input asp-for="NombrePlato" class="form-control" />
+                <span asp-validation-for="NombrePlato" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>@Html.DisplayName("Cantidad vendida")</label>
+                <input asp-for="CantidadVendida" class="form-control" />
+                <span asp-validation-for="CantidadVendida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
