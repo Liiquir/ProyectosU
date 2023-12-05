@@ -1,0 +1,388 @@
+00001 
+00002 
+00003 
+00004 
+00005 
+00006 
+00007 
+00008 MODULE CalcularInflacion  ;
+00009 
+00010 FROM InOut IMPORT WriteInt ,  WriteString ,  WriteLn ,  Write ,  Read ,  ReadInt ;
+00011 FROM RealInOut IMPORT WriteReal ,  ReadReal ;
+00012 
+00013 VAR
+00014 MaxAnos : INTEGER  ;
+00015 Ano : INTEGER  ;
+00016 
+00017 RETURN ;
+        ERROR 0033: Los comandos solo pueden estar decladrados dentro de un bloque BEGIN-END
+00018 
+00019 Respuesta : CHAR ;
+00020 Factor1 ,  Factor2 ,  Factor3 : REAL ;
+00021 
+00022 (* Inicio del programa *)
+00023 BEGIN
+00024 
+00025 Respuesta2 : CHAR  ;
+00026 
+00027 WRITELN
+        ERROR 0055: El comando WRITELN no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: WRITELN
+00028 WRITELN  ;
+        ERROR 0055: El comando WRITELN no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: WRITELN
+00029 WriteLN  ;
+        ERROR 0055: El comando WriteLN no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: WriteLN
+00030 WriteLnn  ;
+        ERROR 066: Comando desconocido: WriteLnn
+00031 WriteLn
+        ERROR 010: La linea no termina en ;
+00032 WriteLn  ;
+00033 
+00034 WriteSTRING Por favor ,  indique la cantidad maxima de anos:  ;
+        ERROR 0055: El comando WriteSTRING no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: WriteSTRING
+00035 WriteString Por favor ,  indique la cantidad maxima de anos:  ;
+        ERROR 0031: Error de sintaxis, el comando WriteString no tiene parentesis de apertura.
+00036 WriteString  ( Por favor ,  indique la cantidad maxima de anos:  ;
+        ERROR 0037: Falta la comilla de apertura
+00037 WriteString  ( " Por favor ,  indique la cantidad maxima de anos:  ;
+        ERROR 0037: Falta la comilla de apertura
+00038 WriteString  ( 'Por favor ,  indique la cantidad maxima de anos:  ;
+00039 WriteString  ( 'Por favor ,  indique la cantidad maxima de anos:"  ;
+00040 WriteString  ( 'Por favor ,  indique la cantidad maxima de anos:'  ;
+00041 WriteString  ( 'Por favor ,  indique la cantidad maxima de anos:' ) 
+        ERROR 010: La linea no termina en ;
+00042 
+00043 WriteString  ( 'Por favor ,  indique la cantidad maxima de anos:' )   ;
+00044 
+00045 
+00046 ReadIntz 777MaxAnos$esmugrande&
+        ERROR 066: Comando desconocido: ReadIntz
+00047 ReadIntz 777MaxAnos$esmugrande&  ;
+        ERROR 066: Comando desconocido: ReadIntz
+00048 ReadINT 777MaxAnos$esmugrande&  ;
+        ERROR 0055: El comando ReadINT no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: ReadINT
+00049 ReadInt 777MaxAnos$esmugrande& ;
+        ERROR 0031: Error de sintaxis, el comando ReadInt no tiene parentesis de apertura.
+00050 ReadInt )  777MaxAnos$esmugrande& ;
+        ERROR 0031: Error de sintaxis, el comando ReadInt no tiene parentesis de apertura.
+00051 ReadInt [ 777MaxAnos$esmugrande& ;
+        ERROR 0031: Error de sintaxis, el comando ReadInt no tiene parentesis de apertura.
+00052 ReadInt  ( 777MaxAnos$esmugrande& ;
+        ERROR 004: La longitud de la777MaxAnos$esmugrande&excede el límite permitido de 20 caracteres
+        ERROR 005: La 777MaxAnos$esmugrande& deben empezar con una letra
+        ERROR 006: La 777MaxAnos$esmugrande& solo deben contener letras y numeros
+        ERROR 007: La 777MaxAnos$esmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable 777MaxAnos$esmugrande& no está declarada.
+00053 ReadInt  ( MaxAnos$esmugrande& ;
+        ERROR 006: La MaxAnos$esmugrande& solo deben contener letras y numeros
+        ERROR 007: La MaxAnos$esmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable MaxAnos$esmugrande& no está declarada.
+00054 ReadInt  ( MaxAnosesmugrande& ;
+        ERROR 006: La MaxAnosesmugrande& solo deben contener letras y numeros
+        ERROR 007: La MaxAnosesmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable MaxAnosesmugrande& no está declarada.
+00055 ReadInt  ( MaxAnosesmugrande ;
+        EERROR 0039: La variable MaxAnosesmugrande no está declarada.
+00056 ReadInt  ( MaxAnos  (  ;
+00057 ReadInt  ( Respuesta )  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Respuesta de tipo CHAR
+00058 ReadInt  ( MaxAnos ) 
+        ERROR 010: La linea no termina en ;
+00059 ReadInt  ( MaxAnos )   ;
+00060 
+00061 
+00062 ReadRealz 777AnoAnos$esmugrande&
+        ERROR 066: Comando desconocido: ReadRealz
+00063 ReadRealz 777AnoAnos$esmugrande& ;
+        ERROR 066: Comando desconocido: ReadRealz
+00064 ReadREAL 777AnoAnos$esmugrande& ;
+        ERROR 0055: El comando ReadREAL no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: ReadREAL
+00065 ReadReal 777AnoAnos$esmugrande& ;
+        ERROR 0031: Error de sintaxis, el comando ReadReal no tiene parentesis de apertura.
+00066 ReadReal [ 777AnoAnos$esmugrande& ;
+        ERROR 0031: Error de sintaxis, el comando ReadReal no tiene parentesis de apertura.
+00067 ReadReal  ( 777AnoAnos$esmugrande& ;
+        ERROR 004: La longitud de la777AnoAnos$esmugrande&excede el límite permitido de 20 caracteres
+        ERROR 005: La 777AnoAnos$esmugrande& deben empezar con una letra
+        ERROR 006: La 777AnoAnos$esmugrande& solo deben contener letras y numeros
+        ERROR 007: La 777AnoAnos$esmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable 777AnoAnos$esmugrande& no está declarada.
+00068 ReadReal  ( AnoAnos777$esmugrande& ;
+        ERROR 004: La longitud de laAnoAnos777$esmugrande&excede el límite permitido de 20 caracteres
+        ERROR 006: La AnoAnos777$esmugrande& solo deben contener letras y numeros
+        ERROR 007: La AnoAnos777$esmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable AnoAnos777$esmugrande& no está declarada.
+00069 ReadReal  ( AnoAnos$esmugrande& ;
+        ERROR 006: La AnoAnos$esmugrande& solo deben contener letras y numeros
+        ERROR 007: La AnoAnos$esmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable AnoAnos$esmugrande& no está declarada.
+00070 ReadReal  ( AnoAnosesmugrande& ;
+        ERROR 006: La AnoAnosesmugrande& solo deben contener letras y numeros
+        ERROR 007: La AnoAnosesmugrande& no se permiten con caracteres especiales
+        EERROR 0039: La variable AnoAnosesmugrande& no está declarada.
+00071 ReadReal  ( AnoAnosesmugrande  ;
+        EERROR 0039: La variable AnoAnosesmugrande no está declarada.
+00072 ReadReal  ( AnoAnosesmugrande  ( ;
+        EERROR 0039: La variable AnoAnosesmugrande no está declarada.
+00073 ReadReal  ( AnoAnosesmugrande ) 
+        ERROR 010: La linea no termina en ;
+        EERROR 0039: La variable AnoAnosesmugrande no está declarada.
+00074 ReadReal  ( AnoAnosesmugrande )   ;
+        EERROR 0039: La variable AnoAnosesmugrande no está declarada.
+00075 ReadReal  ( Respuesta )  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Respuesta de tipo CHAR
+00076 ReadReal  ( Ano ) 
+        ERROR 010: La linea no termina en ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00077 ReadReal  ( Ano )   ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00078 
+00079 (* Inicializacion de variables *)
+00080 Ano := 1 .23 ;
+00081 Factor1  :=  1 .0  ;
+00082 Factor2  :=  1 .0  ;
+00083 Factor3  :=  1 .0  ;
+00084 
+00085 Ano  :=  33000  ;
+00086 
+00087 Factor11  :=   ( Factor1 * 1 .07 )  ;
+        ERROR 066: Comando desconocido: Factor11
+        ERROR 0039: La variable Factor11 no está declarada.
+00088 
+00089 Factor1  :=  Respuesta  ;
+00090 
+00091 
+00092 Factor2% && AVS Factor2$ X 1 , 08  ;
+        ERROR 066: Comando desconocido: Factor2%
+00093 Factor2 && AVS Factor2$ X 1 , 08  ;
+00094 Factor2 :& AVS Factor2$ X 1 , 08  ;
+00095 Factor2  :=  AVS Factor2$ X 1 , 08  ;
+00096 Factor2  :=  ABS Factor2$ X 1 , 08  ;
+00097 Factor2  :=  ABS  ( Factor2$ X 1 , 08  ;
+        ERROR 2041: No hay parentesis de cierre.
+00098 Factor2  :=  ABS  ( Factor2 X 1 , 08  ;
+        ERROR 2041: No hay parentesis de cierre.
+00099 Factor2  :=  ABS  (  ( Factor2 X 1 , 08  ;
+        ERROR 2041: No hay parentesis de cierre.
+00100 Factor2  :=  ABS  (  ( Factor2 )  X 1 , 08  ;
+00101 Factor2  :=  ABS  (  ( Factor2 )  * 1 , 08  ;
+00102 Factor2  :=  ABS  (  ( Factor2 )  * 1 .08  ;
+00103 Factor2  :=  ABS  (  ( Factor2 )  * 1 .08 ) 
+00104 
+00105 Factor2  :=  ABS  (  ( Factor2 )  * 1 .08 )   ;
+00106 
+00107 Factor2  :=  SQRT  ( ABS  (  ( Factor2 )  * 1 .08 )  )   ;
+00108 
+00109 Factor2  :=  SIZE  ( ABS  (  ( Factor2 )  * 1 .08 )  )   ;
+00110 
+00111 
+00112 Factor3 := Factor33* (  .1 )  ;
+00113 
+00114 Respuesta  :=  Factor1  ;
+00115 
+00116 WriteInt Ano$ X
+        ERROR 010: La linea no termina en ;
+        ERROR 0031: Error de sintaxis, el comando WriteInt no tiene parentesis de apertura.
+        ERROR 1040: Falta la coma despues de Ano$
+00117 WriteInt Ano$ X  ;
+        ERROR 0031: Error de sintaxis, el comando WriteInt no tiene parentesis de apertura.
+        ERROR 1040: Falta la coma despues de Ano$
+        ERROR 1040: Falta la coma despues de X
+00118 WriteInt )  Ano$ X  ;
+        ERROR 0031: Error de sintaxis, el comando WriteInt no tiene parentesis de apertura.
+        ERROR 1040: Falta la coma despues de Ano$
+        ERROR 1040: Falta la coma despues de X
+00119 WriteInt  ( Ano$ X  ;
+        ERROR 006: La Ano$ solo deben contener letras y numeros
+        ERROR 007: La Ano$ no se permiten con caracteres especiales
+        EERROR 0039: La variable Ano$ no está declarada.
+        ERROR 1040: Falta la coma despues de Ano$
+        ERROR 1040: Falta la coma despues de X
+00120 WriteInt  ( Ano X  ;
+        ERROR 1040: Falta la coma despues de Ano
+        ERROR 1040: Falta la coma despues de X
+00121 WriteInt  ( Ano  ,  ,  X  ;
+        ERROR 1040: Falta la coma despues de X
+00122 WriteInt  ( Ano  ,  X  ;
+        ERROR 1040: Falta la coma despues de X
+00123 WriteInt  ( Ano  ,  -1  ;
+00124 WriteInt  ( Ano  ,  66  ;
+        ERROR 1039: El tamano es mayor a 20.
+00125 WriteInt  ( Ano  ,  -1 )  ;
+00126 WriteInt  ( Ano  ,  66 )  ;
+        ERROR 1039: El tamano es mayor a 20.
+00127 WriteInt  ( Ano  ,  3 ) 
+        ERROR 010: La linea no termina en ;
+00128 WriteInt  ( Ano  ,  3 ,  ) 
+        ERROR 010: La linea no termina en ;
+00129 WriteInt  ( Ano  ,  3
+        ERROR 010: La linea no termina en ;
+00130 WriteInt  ( Ano  ,  3 )  ;
+00131 
+00132 
+00133 WriteReal Ano$ X
+        ERROR 010: La linea no termina en ;
+        ERROR 0031: Error de sintaxis, el comando WriteReal no tiene parentesis de apertura.
+        ERROR 1040: Falta la coma despues de Ano$
+00134 WriteReal Ano$ X  ;
+        ERROR 0031: Error de sintaxis, el comando WriteReal no tiene parentesis de apertura.
+        ERROR 1040: Falta la coma despues de Ano$
+        ERROR 1040: Falta la coma despues de X
+00135 WriteReal )  Ano$ X  ;
+        ERROR 0031: Error de sintaxis, el comando WriteReal no tiene parentesis de apertura.
+        ERROR 1040: Falta la coma despues de Ano$
+        ERROR 1040: Falta la coma despues de X
+00136 WriteReal  ( Ano$ X  ;
+        ERROR 006: La Ano$ solo deben contener letras y numeros
+        ERROR 007: La Ano$ no se permiten con caracteres especiales
+        EERROR 0039: La variable Ano$ no está declarada.
+        ERROR 1040: Falta la coma despues de Ano$
+        ERROR 1040: Falta la coma despues de X
+00137 WriteReal  ( Ano X  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+        ERROR 1040: Falta la coma despues de Ano
+        ERROR 1040: Falta la coma despues de X
+00138 WriteReal  ( Ano  ,  ,  X  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+        ERROR 1040: Falta la coma despues de X
+00139 WriteReal  ( Ano  ,  X  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+        ERROR 1040: Falta la coma despues de X
+00140 WriteReal  ( Ano  ,  -1  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00141 WriteReal  ( Ano  ,  66  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+        ERROR 1039: El tamano es mayor a 20.
+00142 WriteReal  ( Ano  ,  -1 )  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00143 WriteReal  ( Ano  ,  66 )  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+        ERROR 1039: El tamano es mayor a 20.
+00144 WriteReal  ( Ano  ,  3 ) 
+        ERROR 010: La linea no termina en ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00145 WriteReal  ( Ano  ,  3 ,  ) 
+        ERROR 010: La linea no termina en ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00146 WriteReal  ( Ano  ,  3
+        ERROR 010: La linea no termina en ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00147 WriteReal  ( Ano  ,  3 )  ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00148 
+00149 
+00150 WriteString  ( 'Otra vez?' )  ;
+00151 
+00152 
+00153 Readd 1Respuesta$tienemas20
+        ERROR 066: Comando desconocido: Readd
+00154 Readd 1Respuesta$tienemas20  ;
+        ERROR 066: Comando desconocido: Readd
+00155 REad 1Respuesta$tienemas20  ;
+        ERROR 0055: El comando REad no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: REad
+00156 Read 1Respuesta$tienemas20  ;
+        ERROR 0031: Error de sintaxis, el comando Read no tiene parentesis de apertura.
+00157 Read  ( 1Respuesta$tienemas20  ;
+        ERROR 004: La longitud de la1Respuesta$tienemas20excede el límite permitido de 20 caracteres
+        ERROR 005: La 1Respuesta$tienemas20 deben empezar con una letra
+        ERROR 006: La 1Respuesta$tienemas20 solo deben contener letras y numeros
+        ERROR 007: La 1Respuesta$tienemas20 no se permiten con caracteres especiales
+        EERROR 0039: La variable 1Respuesta$tienemas20 no está declarada.
+00158 Read  ( Respuesta$tienemas_20  ;
+        ERROR 004: La longitud de laRespuesta$tienemas_20excede el límite permitido de 20 caracteres
+        ERROR 006: La Respuesta$tienemas_20 solo deben contener letras y numeros
+        ERROR 007: La Respuesta$tienemas_20 no se permiten con caracteres especiales
+        EERROR 0039: La variable Respuesta$tienemas_20 no está declarada.
+00159 Read  ( Respuestatienemasque20  ;
+        ERROR 004: La longitud de laRespuestatienemasque20excede el límite permitido de 20 caracteres
+        EERROR 0039: La variable Respuestatienemasque20 no está declarada.
+00160 Read  ( Respuesta  ;
+00161 Read  ( Respuesta ]  ;
+00162 Read  ( Respuesta  (  ;
+00163 Read  ( Respuesta666 )   ;
+        EERROR 0039: La variable Respuesta666 no está declarada.
+00164 Read  ( Respuesta ) 
+        ERROR 010: La linea no termina en ;
+00165 Read  ( Ano )   ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00166 Read  ( Respuesta )   ;
+00167 
+00168 WriteString  ( 'Esta es su respuesta:' )  ;
+00169 
+00170 WRITE Respuesta/masde20carac%
+        ERROR 0055: El comando WRITE no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: WRITE
+00171 WRITE Respuesta/masde20carac%  ;
+        ERROR 0055: El comando WRITE no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: WRITE
+00172 Write Respuesta/masde20carac%  ;
+        ERROR 0031: Error de sintaxis, el comando Write no tiene parentesis de apertura.
+00173 Write )  Respuesta/masde20carac%  ;
+        ERROR 0031: Error de sintaxis, el comando Write no tiene parentesis de apertura.
+00174 Write [ Respuesta/masde20carac%  ;
+        ERROR 0031: Error de sintaxis, el comando Write no tiene parentesis de apertura.
+00175 Write  ( Respuesta/masde20carac%  ;
+        ERROR 004: La longitud de laRespuesta/masde20carac%excede el límite permitido de 20 caracteres
+        ERROR 006: La Respuesta/masde20carac% solo deben contener letras y numeros
+        ERROR 007: La Respuesta/masde20carac% no se permiten con caracteres especiales
+        EERROR 0039: La variable Respuesta/masde20carac% no está declarada.
+00176 Write  ( Respuesta/masde20ca%  ;
+        ERROR 006: La Respuesta/masde20ca% solo deben contener letras y numeros
+        ERROR 007: La Respuesta/masde20ca% no se permiten con caracteres especiales
+        EERROR 0039: La variable Respuesta/masde20ca% no está declarada.
+00177 Write  ( Respuestamasde20ca%  ;
+        ERROR 006: La Respuestamasde20ca% solo deben contener letras y numeros
+        ERROR 007: La Respuestamasde20ca% no se permiten con caracteres especiales
+        EERROR 0039: La variable Respuestamasde20ca% no está declarada.
+00178 Write  ( Respuesta ]  ;
+00179 Write  ( Respuesta  (  ;
+00180 Write  ( Respuestanoexiste ) 
+        ERROR 010: La linea no termina en ;
+        EERROR 0039: La variable Respuestanoexiste no está declarada.
+00181 Write  ( Respuestanoexiste )   ;
+        EERROR 0039: La variable Respuestanoexiste no está declarada.
+00182 Write  ( Ano )   ;
+        ERROR 0046: El comando de lectura no es el correcto para la variable Ano de tipo INTEGER
+00183 Write  ( Respuesta )   ;
+00184 
+00185 return
+        ERROR 0055: El comando return no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: return
+00186 return  ;
+        ERROR 0055: El comando return no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: return
+00187 RETURN
+        ERROR 010: La linea no termina en ;
+00188 RETURN  ;
+00189 
+00190 end
+        ERROR 0055: El comando end no respeta la sensibilidad.
+        ERROR 066: Comando desconocido: end
+00191 ENDX
+        ERROR 066: Comando desconocido: ENDX
+00192 END
+00193 END .
+        ERROR 0199: El nombre del programa del programa no coincide.
+00194 END .  ;
+        ERROR 0179:La linea no debe terminar en ;
+00195 END NO_DEFINIDO ;
+        ERROR 0179:La linea no debe terminar en ;
+00196 END NO_DEFINIDO .
+        ERROR 0199: El nombre del programa del programa no coincide.
+00197 END CalcularInflacion
+        ERROR 0599: La linea debe terminar con un punto.
+00198 END CalcularInflacion ;
+        ERROR 0179:La linea no debe terminar en ;
+00199 END CalcularInflacion .
+00200 (* Fin del programa *)
+00201 
+00202 
+00203 
+00204 
+00205 
