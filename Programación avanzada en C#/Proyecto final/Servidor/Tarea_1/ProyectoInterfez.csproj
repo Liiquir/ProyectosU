@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{209F1251-519E-4069-84BA-A4E73BD08A45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tarea_1</RootNamespace>
+    <AssemblyName>Tarea_1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmRegistrarAutobus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarAutobus.Designer.cs">
+      <DependentUpon>frmRegistrarAutobus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarConductores.Designer.cs">
+      <DependentUpon>frmRegistrarConductores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmRegistrarRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarRuta.Designer.cs">
+      <DependentUpon>frmRegistrarRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaAutobuses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaAutobuses.Designer.cs">
+      <DependentUpon>frmConsultaAutobuses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaConductores.Designer.cs">
+      <DependentUpon>frmConsultaConductores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaRutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaRutas.Designer.cs">
+      <DependentUpon>frmConsultaRutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaTerminales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaTerminales.Designer.cs">
+      <DependentUpon>frmConsultaTerminales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarTerminales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarTerminales.Designer.cs">
+      <DependentUpon>frmRegistrarTerminales.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LogicaTarea\LogicaTarea.csproj">
+      <Project>{b6e21a0e-0b6f-4045-80a3-cc4df61cbd92}</Project>
+      <Name>LogicaTarea</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmRegistrarAutobus.resx">
+      <DependentUpon>frmRegistrarAutobus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarConductores.resx">
+      <DependentUpon>frmRegistrarConductores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarRuta.resx">
+      <DependentUpon>frmRegistrarRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaAutobuses.resx">
+      <DependentUpon>frmConsultaAutobuses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaConductores.resx">
+      <DependentUpon>frmConsultaConductores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaRutas.resx">
+      <DependentUpon>frmConsultaRutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaTerminales.resx">
+      <DependentUpon>frmConsultaTerminales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarTerminales.resx">
+      <DependentUpon>frmRegistrarTerminales.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

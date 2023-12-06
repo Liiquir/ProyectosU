@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\mio\\Uned\\2022\\3er cuatrimestre\\Programación avanzada\\Tarea 1\\Tarea1\\LogicaTarea1\\LogicaTarea1.csproj": {}
+  },
+  "projects": {
+    "D:\\mio\\Uned\\2022\\3er cuatrimestre\\Programación avanzada\\Tarea 1\\Tarea1\\LogicaTarea1\\LogicaTarea1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\mio\\Uned\\2022\\3er cuatrimestre\\Programación avanzada\\Tarea 1\\Tarea1\\LogicaTarea1\\LogicaTarea1.csproj",
+        "projectName": "LogicaTarea1",
+        "projectPath": "D:\\mio\\Uned\\2022\\3er cuatrimestre\\Programación avanzada\\Tarea 1\\Tarea1\\LogicaTarea1\\LogicaTarea1.csproj",
+        "packagesPath": "C:\\Users\\Josue\\.nuget\\packages\\",
+        "outputPath": "D:\\mio\\Uned\\2022\\3er cuatrimestre\\Programación avanzada\\Tarea 1\\Tarea1\\LogicaTarea1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

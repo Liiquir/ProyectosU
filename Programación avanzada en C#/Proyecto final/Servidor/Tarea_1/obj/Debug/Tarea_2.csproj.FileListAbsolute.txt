@@ -1,0 +1,65 @@
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\bin\Debug\Tarea_1.exe.config
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\bin\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\bin\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.SuggestedBindingRedirects.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.CopyComplete
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.GenerateResource.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea2\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\bin\Debug\Tarea_1.exe.config
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\bin\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\bin\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.SuggestedBindingRedirects.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.GenerateResource.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_2.csproj.CopyComplete
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea2\Tarea_1\obj\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\bin\Debug\Tarea_1.exe.config
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\bin\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\bin\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.SuggestedBindingRedirects.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.GenerateResource.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.CopyComplete
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\bin\Debug\Tarea_1.exe.config
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\bin\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\bin\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.SuggestedBindingRedirects.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.GenerateResource.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.CopyComplete
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.pdb
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\bin\Debug\Tarea_1.exe.config
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\bin\Debug\Tarea_1.exe
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\bin\Debug\Tarea_1.pdb
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\bin\Debug\LogicaTarea.dll
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\bin\Debug\LogicaTarea.pdb
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.GenerateResource.cache
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_2.csproj.CopyComplete
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_1.exe
+C:\Users\Josue\Desktop\Tarea 2\Tarea_1\obj\Debug\Tarea_1.pdb

@@ -1,0 +1,38 @@
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\ProyectoInterfez.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\ProyectoInterfez.csproj.SuggestedBindingRedirects.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.Autobus.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.Conductores.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.Ruta.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.TablaAutobuses.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.TablaConductores.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.TablaRutas.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.TablaTerminales.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.Terminales.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\ProyectoInterfez.csproj.GenerateResource.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\ProyectoInterfez.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\Tarea 2\Tarea_1\obj\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\ProyectoInterfez.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\ProyectoInterfez.csproj.SuggestedBindingRedirects.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.MenuPrincipal.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\ProyectoInterfez.csproj.GenerateResource.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\ProyectoInterfez.csproj.CoreCompileInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\Tarea_1.exe.config
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\Tarea_1.exe
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\Tarea_1.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\LogicaTarea.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\Newtonsoft.Json.dll
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\LogicaTarea.pdb
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\bin\Debug\Newtonsoft.Json.xml
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\ProyectoInterfez.csproj.CopyComplete
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmRegistrarAutobus.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmRegistrarConductores.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmRegistrarRuta.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmRegistrarTerminales.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmConsultaAutobuses.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmConsultaConductores.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmConsultaRutas.resources
+D:\mio\Uned\2022\3er cuatrimestre\Programacion avanzada\ServidorProyecto\Tarea_1\obj\Debug\Tarea_1.frmConsultaTerminales.resources

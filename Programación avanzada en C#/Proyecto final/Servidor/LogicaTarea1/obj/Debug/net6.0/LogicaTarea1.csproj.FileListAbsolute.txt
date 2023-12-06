@@ -1,0 +1,5 @@
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea1\obj\Debug\net6.0\LogicaTarea1.csproj.AssemblyReference.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea1\obj\Debug\net6.0\LogicaTarea1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea1\obj\Debug\net6.0\LogicaTarea1.AssemblyInfoInputs.cache
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea1\obj\Debug\net6.0\LogicaTarea1.AssemblyInfo.cs
+D:\mio\Uned\2022\3er cuatrimestre\Programación avanzada\Tarea 1\Tarea1\LogicaTarea1\obj\Debug\net6.0\LogicaTarea1.csproj.CoreCompileInputs.cache
